@@ -126,7 +126,7 @@ nav a:hover, nav a:focus {background-color:  gainsboro;}
 /* FIM DO MENU */
 
 .destaque {
-    background-image: url(/img/fundo-destaque.jpg);
+    background-image: url(../img/fundo-destaque.jpg);
     height: 95vh;
     color: white;
     background-attachment: fixed;
@@ -180,7 +180,7 @@ figure {
 }
 
 .historia {
-    background-image: url(/img/fundo-madeira.jpg);
+    background-image: url(../img/fundo-madeira.jpg);
     background-attachment: fixed;
     background-size: cover;
     padding-bottom:1rem;
